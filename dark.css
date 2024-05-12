@@ -1,0 +1,19 @@
+/* 스타일 시트를 작성하기 위한 파일 */
+
+/* body 요소의 배경 색을 어두운 회색으로 설정 */
+body {
+    background-color: #222;
+    height: 3000px;
+    color: #ccc;
+    font-size: 1.6em;
+    line-height: 1.6;
+    font-family: "source sans pro", "open sans", "나눔바른고딕", "맑은 고딕", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+pre, .gray-box {
+    background-color: #555;
+    padding: 1em;
+    margin: 20px;
+    border-radius: 12px;
+    font-family: consolas, D2Coding, Courier, monospace;
+}
